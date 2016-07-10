@@ -4,7 +4,7 @@
 var connection = mysql.createConnection({     
   host     : '127.0.0.1',       //主机
   user     : 'root',               //MySQL认证用户名
-  password : '123456',        //MySQL认证用户密码
+  password : 'hxhlxf8',        //MySQL认证用户密码
   port: '3306',                   //端口号
 }); 
 //创建一个connection
